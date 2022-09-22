@@ -1,0 +1,104 @@
+<html>
+    <head>
+    <title>Curriculum Vitae</title>
+    </head>
+    <body
+        style="background-color:whitesmoke;">
+    <h1 align=center>CURRICULUM VITAE</h1>
+    <!--INFORMASI DATA DIRI-->
+        <hr>
+        <b>Data Pribadi</b>
+        <hr>
+        <table style="width:60%">
+            <!--FOTO-->
+            <img src="Morinda1.jpeg" align="right" width="150" height="200">
+        <tr>
+        <th></th>
+        <th></th>
+        </tr>
+        <tr>
+            <td>Nama Lengkap</td>
+            <td>: Morinda Alicia Siallagan </td>
+        </tr>
+        <tr>
+            <td>Tempat, Tanggal Lahir</td>
+            <td>: Sorong, 26 Mei 2002 </td>  
+        </tr>
+        <tr>
+            <td>Jenis Kelamin</td>
+            <td>: Perempuan</td>
+        </tr>
+        <tr>
+            <td>Kewarganegaraan</td>
+            <td>: Indonesia</td>
+        </tr>
+        <tr>
+            <td>Agama</td>
+            <td>: Protestan</td>
+        </tr>
+            <td>Alamat</td>
+            <td>: <a href="https://goo.gl/maps/YXrghpYvVDs7AA5q7">Jalan Kricak Kidul No.1339</a></td>
+        <tr>
+            <td>Status</td>
+            <td>: Mahasiswa</td>
+        </tr>
+            <tr>
+            <td>NO HP</td>
+            <td>: 081286453726</td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>: siallaganmorinda@gmail.com</td>
+        </tr>
+        </table>
+    <!--RIWAYAT PENDIDIKAN-->  
+            <hr>
+            <h4>Riwayat Pendidikan</h4>
+            <hr>
+                <table style="width:80%">
+            <tr>
+            <th></th>
+            <th></th>
+            </tr>
+            <ul>
+                <li>2007 - 2008 : TK St. Agnes Kota Sorong</li>
+                <li>2008 - 2014 : SD YPPK St. Willibrordus I Kota Sorong</li>
+                <li>2014 - 2017 : SMP Negeri 9 Kota Sorong</li>
+                <li>2017 - 2020 : SMA Negeri 3 Kota Sorong</li>
+            </ul>  
+            </table>
+    <!-- RIWAYAT ORGANISASI-->
+            <hr>
+            <b>Pengalaman Organisasi</b><hr>
+            <table style="width:180%">
+            <tr>
+            <th></th>
+            <th></th>
+            </tr>
+            <ul>
+                <li>Bendahara UKM Band Sexen USD 2020 - 2021</li>
+                <li>Humas UKM Karate INKAI USD 2020 - 2021</li>
+                <li>Bendahara UKM Band Sexen USD 2021 - 2022</li>
+                <li>Bendahara PORSI Informatika USD 2021 - 2022</li>
+                <li>Koordinator Konsumsi IT Days USD 2021 - 2022</li>
+            </ul>
+            </table>
+    <!--KEAHLIAN YANG DIMILIKI-->                  
+            <hr>
+            <b>Keahlian Lain</b>
+            <hr>
+            <ul>
+                <li>Bermain alat musik (Keyboard)</li>
+                <li>Mengoperasikan Komputer : Microsoft Office</li><br>
+            </ul>
+            <table>
+    <!-- Media Sosial-->
+            <hr>
+            <b>Media Sosial</b>
+            <hr>
+            <a href="https://instagram.com/morinn.d?igshid=YmMyMTA2M2Y="><img src="Instagram.jfif" width="50" height="50"</a>
+            <a href="https://wa.link/ivb7h9"><img src="whatsapp.jfif" width="50" height="50"</a>
+            <a href="https://line.me/ti/p/iZtwC-I_1E"><img src="line1.png" width="55" height="55"</a><br>   
+            </table>
+    </body>
+</html>
